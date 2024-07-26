@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\WCFBanco\bin\WCFBanco.dll.config
+C:\Users\pedro\source\repos\WCFBanco\bin\WCFBanco.dll
+C:\Users\pedro\source\repos\WCFBanco\bin\WCFBanco.pdb
+C:\Users\pedro\source\repos\WCFBanco\obj\Debug\WCFBanco.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\WCFBanco\obj\Debug\WCFBanco.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\WCFBanco\obj\Debug\WCFBanco.dll
+C:\Users\pedro\source\repos\WCFBanco\obj\Debug\WCFBanco.pdb
